@@ -1,0 +1,36 @@
+id: I23B527FE
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:25:50.683872'
+last_modified: '2022-06-18T22:25:50.683887'
+parser: null
+source_metadata:
+  title: Catuḥśataka of Āryadeva (Old Gong dkar block print), colophon excerpt
+  author: slob dpon phags pa lha/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2017-10-16); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/1393
+  bases:
+    0a9e:
+      title: Catuḥśataka of Āryadeva (Old Gong dkar block print), colophon excerpt
+      order: 1
+      base_file: 0a9e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
